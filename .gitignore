@@ -1,0 +1,11 @@
+config_fb_*
+!config_fb_template.py
+nohup.*
+
+log/
+model_*
+output_model_*
+__pycache__/
+test_data/
+train.sh
+
